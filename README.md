@@ -86,3 +86,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 Private-use only! (you need to ask for a commercial-use)
 
+kicad-5.1.2_2
+https://downloads.kicad.org/kicad/windows/explore/stable
