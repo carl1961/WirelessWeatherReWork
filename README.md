@@ -1,5 +1,7 @@
 Currently a Work in progress as I learn how to put this wireless weather to working
-search for best prices, I do not get any money from links
+search for best prices, I do not get any money from links 
+
+3D printed parts at Thingiverse https://www.thingiverse.com/thing:7009551
 
 Added file for 195mmx125mm solar module  https://www.amazon.com/Bettomshin-Polycrystalline-Module-Charger-195x125mm%EF%BC%8C1Pcs/dp/B09R9WVTVC?th=1       (110x125 solar module still ordered (hard to find)
 
@@ -63,7 +65,7 @@ Wind speed and rain gets count by ULP co-processor of ESP32 module. Every few mi
 Because ESP devices are pretty power hungry, I wanted to build something more power saving. Therefore, a Arduino Pro Mini is used inside the weather station. Most time it sleeps and count wind and rain by interrupts. Every x minutes, it wakes up, power up I2C devices (BME280 and ATTINY24 for wind direction), reads values and send them using cheap 433MHz module. You find a working example based on ESP8266 module acting as a bridge between 433 Mhz and MQTT, so it receives data over 433MHz and publish them like before using MQTT. 
 
 ## Project site
-You find all 3D printed parts at Thingiverse 
+You find all 3D printed parts at Thingiverse (https://www.thingiverse.com/thing:7009551) 
 https://www.thingiverse.com/thing:3718078
 
 A video is here https://youtu.be/xa0Dt5vs0kM
