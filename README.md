@@ -1,3 +1,22 @@
+Currently a Work in progress as I learn how to put this wireless weather to working
+search for best prices, I do not get any money from links
+
+Added file for 195mmx125mm solar module  https://www.amazon.com/Bettomshin-Polycrystalline-Module-Charger-195x125mm%EF%BC%8C1Pcs/dp/B09R9WVTVC?th=1       (110x125 solar module still ordered (hard to find)
+
+BME280 Module mount     https://www.amazon.com/JESSINIE-Atmospheric-Pressure-GY-BME280-3-3-Temperature/dp/B0D8L1GPBV
+Reed switch mounts for wind direction , Rain and wind speed
+Fusion files
+https://github.com/carl1961/WirelessWeatherReWork
+PaddyCube link to fusion view   https://myweb11242.autodesk360.com/g/shares/SH919a0QTf3c32634dcfa4fd707aa5c92a6e
+
+Windfahne-Magnet-Mount-New.stl  Stronger that original  also I did as test with TPU  (flexible filament)
+Windfahne-Mast-8.3mm.stl has reed mount built in.
+
+Anemometer-Lagerschale_1-8mm.stl   is 4mm thick arms  both parts glued together become 8mm. Original was 4mm
+Raingauge-mount-plate-Reed-Switch-Mount.stl is only needed if you already printed   Raingauge-mount-plate , you have to apply effort to get holes drilled for screws and reed switch leads. I use 2 M3 x 6mm screws
+
+
+
 ## Description
 Build your own Wireless Weather station. This station includes:
 - Temperature
