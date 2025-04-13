@@ -5,6 +5,21 @@ Added file for 195mmx125mm solar module  https://www.amazon.com/Bettomshin-Polyc
 
 BME280 Module mount     https://www.amazon.com/JESSINIE-Atmospheric-Pressure-GY-BME280-3-3-Temperature/dp/B0D8L1GPBV
 Reed switch mounts for wind direction , Rain and wind speed
+
+![20250413_174417](https://github.com/user-attachments/assets/06ba5ea4-0bbe-4a71-982c-6c09fbdb9a22)
+
+![20250413_174429](https://github.com/user-attachments/assets/0db31994-8120-44d5-a954-1e466abe8da0)
+
+![20250413_174439](https://github.com/user-attachments/assets/d6833709-c1c1-4031-b1f0-e6c3e5f09c96)
+
+Uploaded file is better, I manually melted and inserted this one on original part
+
+![20250413_174458](https://github.com/user-attachments/assets/7bfa5079-9f03-4464-bf4f-48c3ee945cfe)
+
+
+
+
+
 Fusion files
 https://github.com/carl1961/WirelessWeatherReWork
 PaddyCube link to fusion view   https://myweb11242.autodesk360.com/g/shares/SH919a0QTf3c32634dcfa4fd707aa5c92a6e
