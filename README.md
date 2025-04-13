@@ -16,7 +16,7 @@ Uploaded file is better, I manually melted and inserted this one on original par
 
 ![20250413_174458](https://github.com/user-attachments/assets/7bfa5079-9f03-4464-bf4f-48c3ee945cfe)
 
-# NOTE: I had to use solder paste to get solder to stick to reed switch leads.
+## NOTE: I had to use solder paste to get solder to stick to reed switch leads.
 
 
 
