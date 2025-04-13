@@ -8,7 +8,7 @@ Added file for 195mmx125mm solar module  https://www.amazon.com/Bettomshin-Polyc
 BME280 Module mount     https://www.amazon.com/JESSINIE-Atmospheric-Pressure-GY-BME280-3-3-Temperature/dp/B0D8L1GPBV
 Reed switch mounts for wind direction , Rain and wind speed
 
-Aluninum Tubing in picture was not cut to correct lenght , I could not press it any more in, was afraid it would damage part. Updated part I made hole 8.3
+Aluminum Tubing in picture was not cut to correct length , I could not press it any more in, was afraid it would damage part. Updated part I made hole 8.3  
 ![20250413_174417](https://github.com/user-attachments/assets/06ba5ea4-0bbe-4a71-982c-6c09fbdb9a22)
 
 ![20250413_174429](https://github.com/user-attachments/assets/0db31994-8120-44d5-a954-1e466abe8da0)
