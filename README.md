@@ -14,7 +14,7 @@ There are three versions available:
 - one uses an Arduino Mini together with ATTINY24 for wind direction inside weather station and publish messages by 433 Mhz.
 
 Code and schematics for any solution can be found in corresponding subfolders of folder 'code'
-
+https://myweb11242.autodesk360.com/g/shares/SH919a0QTf3c32634dcfa4fd707aa5c92a6e
 ## Operation mode
 ### ESP8266
 Wind speed and rain gets detected by pin change interrupt of ATTINYs. 
@@ -88,3 +88,4 @@ Private-use only! (you need to ask for a commercial-use)
 
 kicad-5.1.2_2
 https://downloads.kicad.org/kicad/windows/explore/stable
+https://myweb11242.autodesk360.com/g/shares/SH919a0QTf3c32634dcfa4fd707aa5c92a6e
