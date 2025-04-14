@@ -1,10 +1,11 @@
 #---------------------------------------
 # Screws and Nuts
 #---------------------------------------
-20x Knurled brass nuts (OD4mm, 5mm length) (https://www.aliexpress.com/w/wholesale-brass-insert-nut.html?switch_new_app=y)
+20x Knurled brass nuts (OD4mm, 5mm length) for M3 screws (https://www.ebay.com/sch/i.html?_nkw=M3X4X5Mm%20M3%20Threaded%20Insert)
+4x Knurled brass nuts (OD5mm, 5mm length) for M4 srews for bearings (https://www.ebay.com/sch/i.html?_nkw=M4X5X5Mm+M4+Threaded+Insert)
 30x Screws M3 (DIN 912)
-4x Screw M4 x 60 (DIN 912)
-4x Screw M4
+4x Screw M4 x 60 (DIN 912) (fore mast
+4x Screw M4 x 10mm (for bearings)
 2x Screw M5 x 40 (DIN 912)
 7x counter sink screw M3 x 8 (DIN 7991)
 14x Nuts M3
@@ -15,16 +16,17 @@
 1x Alu Pipe 8mm OD 50mm
 8x washer M3
 4x wood or plastic screws (or knurled brass nuts + screws) (Anemometer)
-2x KFL08 bearings (https://www.dold-mechatronik.de/Flanschlager-8mm-Aluminium-Druckguss-KFL08)
-3x round magnet (neodym) 5mm OD
+2x KFL08 bearings (https://www.ebay.com/sch/i.html?_nkw=KFL08)
+3x round magnet (neodym) 5mm OD (https://www.ebay.com/sch/i.html?_nkw=Neodymium+Magnets+5mm+Cylinder)
 
 #---------------------------------------
 # Electronics
 #---------------------------------------
 10 x Reed switch (NO)
-1x Solar panel 110 x 125mm (https://www.ebay.de/itm/Mini-9V-1-5W-Sonnenkollektor-Solaranlage-Solar-Power-Panel-DIY-f%C3%BCr-Handy-Charger/272626734434?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649)
+1x Solar panel 110 x 125mm https://www.ebay.com/itm/363431684381? https://www.ebay.com/itm/145698209000? (1.5W Solar Collector Solar Panel Solar Module DIY Solar Charger 9V Battery A3GS)
+1x Solar panel 195 x 125mm https://www.ebay.com/itm/296740519440? https://www.amazon.com/Fielect-Polycrystallinesilicon-Solar-Battery-Charger/dp/B081ZS13ZD (if doing custom larger size panel) 9V 3W Mini Solar Panels Cell
 1x Battery case
-3x AAA Nimh cells
+3x AAA Nimh cells 1.5v
 4x Capacitor (electrolyte) 4,7uF
 4x Capacitor (ceramic) 100nF
 4x Capacitor (ceramic) 1uF
@@ -41,20 +43,20 @@ Next depends on the target solution you want to build
 2x ATTINY85-20PU
 1x ATTINY24A-PU
 1x WEMOS D1 mini pro
-1x MCP1702-3302 (https://www.reichelt.de/ldo-regler-fest-3-3-v-to-92-mcp-1702-3302-p90114.html?&trstct=pos_0)
-1x MCP1702-5002 (https://www.reichelt.de/ldo-regler-fest-5-v-to-92-mcp-1702-5002-p90115.html)
+1x MCP1702-3302 (https://www.ebay.com/sch/i.html?_nkw=MCP1702-3302)
+1x MCP1702-5002 (https://www.ebay.com/sch/i.html?_nkw=MCP1702-5002)
 
 # ---- ESP32 using ATTINY24 for wind direction
 1x ATTINY24A-PU
 1x ESP32 (DOIT DevKit V1 with 30 GPIOs)
-1x MCP1826S-3302E (https://www.mouser.de/ProductDetail/Microchip-Technology/MCP1826S-3302E-AB?qs=gsqZ4L1luKrs1V8F4RYdLQ%3D%3D&vip=1&gclid=EAIaIQobChMI9b7pvqKr5gIVCOh3Ch2txA8SEAQYASABEgIlAPD_BwE)
-1x MCP1702-5002 
+1x MCP1826S-3302E (https://www.ebay.com/sch/i.html?_nkw=MCP1826S-3302E-AB&_sacat=0&_from=R40&_trksid=m570.l1313&_odkw=MCP1826S-3302E)
+1x MCP1702-5002 (https://www.ebay.com/sch/i.html?_nkw=MCP1702-5002)
 
 # ---- Arduino Pro Mini using ATTINY24 for wind direction
 1x ATTINY24A-PU
 1x Arduino Pro Mini 8Mhz, 3.3V (or ATMEGA328P)
-1x MCP1702-3302 (https://www.reichelt.de/ldo-regler-fest-3-3-v-to-92-mcp-1702-3302-p90114.html?&trstct=pos_0)
-1x MCP1702-5002 (https://www.reichelt.de/ldo-regler-fest-5-v-to-92-mcp-1702-5002-p90115.html)
+1x MCP1702-3302 (https://www.ebay.com/sch/i.html?_nkw=MCP1702-3302)
+1x MCP1702-5002 (https://www.ebay.com/sch/i.html?_nkw=MCP1702-5002)
 
 
 #---------------------------------------
