@@ -3,21 +3,26 @@ search for best prices, I do not get any money from links
 
 3D printed parts at Thingiverse https://www.thingiverse.com/thing:7009551
 
+Update 4-17-2025
+
+Moved reed switch on Mast to under side
+Improved Anemometer-Lagerschale-8mm , Now 11mm and with alignment pin holes 
+Anemometer-Lagerschale_1-8mm-V2 has 3 pin holes (same size as for pin used in rain gauge) see picture
+Added M4 inserts to mast part
+
 Added file for 195mmx125mm solar module  https://www.amazon.com/Bettomshin-Polycrystalline-Module-Charger-195x125mm%EF%BC%8C1Pcs/dp/B09R9WVTVC?th=1       (110x125 solar module still ordered (hard to find)
 
 BME280 Module mount     https://www.amazon.com/JESSINIE-Atmospheric-Pressure-GY-BME280-3-3-Temperature/dp/B0D8L1GPBV
-Reed switch mounts for wind direction , Rain and wind speed
 
-Aluminum Tubing in picture was not cut to correct length , I could not press it any more in, was afraid it would damage part. Updated part I made hole 8.3  
-![20250413_174417](https://github.com/user-attachments/assets/06ba5ea4-0bbe-4a71-982c-6c09fbdb9a22)
+Reed switch mounts for wind direction , Rain and wind speed
 
 ![20250413_174429](https://github.com/user-attachments/assets/0db31994-8120-44d5-a954-1e466abe8da0)
 
 ![20250413_174439](https://github.com/user-attachments/assets/d6833709-c1c1-4031-b1f0-e6c3e5f09c96)
 
-Uploaded file is better, I manually melted and inserted this one on original part
+![20250416_141832](https://github.com/user-attachments/assets/872646c2-acb0-412b-8e80-e64291deb5c9)
 
-![20250413_174458](https://github.com/user-attachments/assets/7bfa5079-9f03-4464-bf4f-48c3ee945cfe)
+
 
 ## NOTE: I had to use solder paste to get solder to stick to reed switch leads.
 
