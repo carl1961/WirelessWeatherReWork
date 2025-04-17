@@ -5,9 +5,12 @@ search for best prices, I do not get any money from links
 
 Update 4-17-2025
 
-Moved reed switch on Mast to under side
-Added M4 inserts to mast part
-Improved Anemometer-Lagerschale-8mm , Now 11mm and with alignment pin holes 
+*Moved reed switch on Mast to under side
+
+*Added M4 inserts to mast part
+
+*Improved Anemometer-Lagerschale-8mm , Now 11mm and with alignment pin holes 
+
 Anemometer-Lagerschale_1-8mm-V2 has 3 pin holes (same size as for pin used in rain gauge) 
 
 ![20250417_025332](https://github.com/user-attachments/assets/b66cc247-2fab-4f85-9bf9-8f3755b43710)
