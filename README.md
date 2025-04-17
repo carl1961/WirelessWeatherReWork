@@ -3,6 +3,9 @@ search for best prices, I do not get any money from links
 
 3D printed parts at Thingiverse https://www.thingiverse.com/thing:7009551
 
+I Recommend using  Windfahne-Mast-8.3mm-M4x5x5-Inserts-Window.stl
+It has a hole to tighten the bearing bolts. this allows you to use the set screws on bearing to lock bearing to  aluminum tubing.
+
 Update 4-17-2025
 
 *Moved reed switch on Mast to under side
