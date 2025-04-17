@@ -6,9 +6,13 @@ search for best prices, I do not get any money from links
 Update 4-17-2025
 
 Moved reed switch on Mast to under side
-Improved Anemometer-Lagerschale-8mm , Now 11mm and with alignment pin holes 
-Anemometer-Lagerschale_1-8mm-V2 has 3 pin holes (same size as for pin used in rain gauge) see picture
 Added M4 inserts to mast part
+Improved Anemometer-Lagerschale-8mm , Now 11mm and with alignment pin holes 
+Anemometer-Lagerschale_1-8mm-V2 has 3 pin holes (same size as for pin used in rain gauge) 
+
+![20250417_025332](https://github.com/user-attachments/assets/b66cc247-2fab-4f85-9bf9-8f3755b43710)
+
+
 
 Added file for 195mmx125mm solar module  https://www.amazon.com/Bettomshin-Polycrystalline-Module-Charger-195x125mm%EF%BC%8C1Pcs/dp/B09R9WVTVC?th=1       (110x125 solar module still ordered (hard to find)
 
