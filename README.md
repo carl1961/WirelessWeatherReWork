@@ -33,6 +33,8 @@ Reed switch mounts for wind direction , Rain and wind speed
 
 ![20250413_174429](https://github.com/user-attachments/assets/0db31994-8120-44d5-a954-1e466abe8da0)
 
+![WIN_20250417_22_20_46_Pro](https://github.com/user-attachments/assets/87bea12d-7e6e-495e-9deb-4d56407920d1)
+
 ![20250413_174439](https://github.com/user-attachments/assets/d6833709-c1c1-4031-b1f0-e6c3e5f09c96)
 
 ![20250416_141832](https://github.com/user-attachments/assets/872646c2-acb0-412b-8e80-e64291deb5c9)
