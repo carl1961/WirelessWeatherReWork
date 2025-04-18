@@ -37,6 +37,11 @@ Reed switch mounts for wind direction , Rain and wind speed
 
 ![20250416_141832](https://github.com/user-attachments/assets/872646c2-acb0-412b-8e80-e64291deb5c9)
 
+![WIN_20250417_22_21_43_Pro](https://github.com/user-attachments/assets/be9066b3-7d85-4d74-905a-b1ff2304dedf)
+
+![WIN_20250417_22_30_28_Pro](https://github.com/user-attachments/assets/d9c49ad1-3a51-4696-8acf-9e7064db8948)
+
+![WIN_20250417_22_32_07_Pro](https://github.com/user-attachments/assets/fe88e1de-ad2d-4fb0-9c43-f9f45b5f3412)
 
 
 ## NOTE: I had to use solder paste to get solder to stick to reed switch leads.
