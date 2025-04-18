@@ -27,7 +27,12 @@ Anemometer-Lagerschale_1-8mm-V2 has 3 pin holes (same size as for pin used in ra
 
 Added file for 195mmx125mm solar module  https://www.amazon.com/Bettomshin-Polycrystalline-Module-Charger-195x125mm%EF%BC%8C1Pcs/dp/B09R9WVTVC?th=1       (110x125 solar module still ordered (hard to find)
 
+![WIN_20250417_22_48_20_Pro](https://github.com/user-attachments/assets/0c3e621c-0a65-4289-949e-4bee5c7844d6)
+
 BME280 Module mount     https://www.amazon.com/JESSINIE-Atmospheric-Pressure-GY-BME280-3-3-Temperature/dp/B0D8L1GPBV
+
+![WIN_20250417_22_17_39_Pro](https://github.com/user-attachments/assets/5eeb67db-a757-43ef-bf22-19b1150bba65)
+
 
 Reed switch mounts for wind direction , Rain and wind speed
 
@@ -51,7 +56,8 @@ Reed switch mounts for wind direction , Rain and wind speed
 
 
 Fusion files
-https://github.com/carl1961/WirelessWeatherReWork
+[https://github.com/carl1961/WirelessWeatherReWork](https://www.thingiverse.com/thing:7009551)
+
 PaddyCube link to fusion view   https://myweb11242.autodesk360.com/g/shares/SH919a0QTf3c32634dcfa4fd707aa5c92a6e
 
 Windfahne-Magnet-Mount-New.stl  Stronger that original  also I did as test with TPU  (flexible filament)
