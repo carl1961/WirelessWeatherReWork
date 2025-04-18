@@ -36,7 +36,7 @@ BME280 Module mount     https://www.amazon.com/JESSINIE-Atmospheric-Pressure-GY-
 
 Reed switch mounts for wind direction , Rain and wind speed
 
-I had to use 3mm magnet on Wind direction for reed switches to work correct. 5mm magnet triggered the surounding reed switches.
+I had to use 3mm magnet on Wind direction for reed switches to work correct. 5mm magnet triggered the surrounding reed switches.
 
 ![20250413_174429](https://github.com/user-attachments/assets/0db31994-8120-44d5-a954-1e466abe8da0)
 
