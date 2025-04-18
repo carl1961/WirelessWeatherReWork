@@ -13,6 +13,9 @@ Update 4-17-2025
 *Added M4 inserts to mast part
 
 *Added BME280-KY-001-DS1820-Screw-Sensor-Mount
+
+![WIN_20250417_22_18_38_Pro](https://github.com/user-attachments/assets/ab961027-37ef-4d3c-8c6a-7c3a29b9824d)
+
  
 *Improved Anemometer-Lagerschale-8mm , Now 11mm and with alignment pin holes 
 
