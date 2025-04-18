@@ -12,6 +12,11 @@ Update 4-17-2025
 
 *Added M4 inserts to mast part
 
+*Added BME280-KY-001-DS1820-Screw-Sensor-Mount
+
+![WIN_20250417_22_18_38_Pro](https://github.com/user-attachments/assets/ab961027-37ef-4d3c-8c6a-7c3a29b9824d)
+
+ 
 *Improved Anemometer-Lagerschale-8mm , Now 11mm and with alignment pin holes 
 
 Anemometer-Lagerschale_1-8mm-V2 has 3 pin holes (same size as for pin used in rain gauge) 
@@ -22,16 +27,28 @@ Anemometer-Lagerschale_1-8mm-V2 has 3 pin holes (same size as for pin used in ra
 
 Added file for 195mmx125mm solar module  https://www.amazon.com/Bettomshin-Polycrystalline-Module-Charger-195x125mm%EF%BC%8C1Pcs/dp/B09R9WVTVC?th=1       (110x125 solar module still ordered (hard to find)
 
+![WIN_20250417_22_48_20_Pro](https://github.com/user-attachments/assets/0c3e621c-0a65-4289-949e-4bee5c7844d6)
+
 BME280 Module mount     https://www.amazon.com/JESSINIE-Atmospheric-Pressure-GY-BME280-3-3-Temperature/dp/B0D8L1GPBV
+
+![WIN_20250417_22_17_39_Pro](https://github.com/user-attachments/assets/5eeb67db-a757-43ef-bf22-19b1150bba65)
+
 
 Reed switch mounts for wind direction , Rain and wind speed
 
 ![20250413_174429](https://github.com/user-attachments/assets/0db31994-8120-44d5-a954-1e466abe8da0)
 
+![WIN_20250417_22_20_46_Pro](https://github.com/user-attachments/assets/87bea12d-7e6e-495e-9deb-4d56407920d1)
+
 ![20250413_174439](https://github.com/user-attachments/assets/d6833709-c1c1-4031-b1f0-e6c3e5f09c96)
 
 ![20250416_141832](https://github.com/user-attachments/assets/872646c2-acb0-412b-8e80-e64291deb5c9)
 
+![WIN_20250417_22_21_43_Pro](https://github.com/user-attachments/assets/be9066b3-7d85-4d74-905a-b1ff2304dedf)
+
+![WIN_20250417_22_30_28_Pro](https://github.com/user-attachments/assets/d9c49ad1-3a51-4696-8acf-9e7064db8948)
+
+![WIN_20250417_22_32_07_Pro](https://github.com/user-attachments/assets/fe88e1de-ad2d-4fb0-9c43-f9f45b5f3412)
 
 
 ## NOTE: I had to use solder paste to get solder to stick to reed switch leads.
@@ -39,7 +56,8 @@ Reed switch mounts for wind direction , Rain and wind speed
 
 
 Fusion files
-https://github.com/carl1961/WirelessWeatherReWork
+[https://github.com/carl1961/WirelessWeatherReWork](https://www.thingiverse.com/thing:7009551)
+
 PaddyCube link to fusion view   https://myweb11242.autodesk360.com/g/shares/SH919a0QTf3c32634dcfa4fd707aa5c92a6e
 
 Windfahne-Magnet-Mount-New.stl  Stronger that original  also I did as test with TPU  (flexible filament)
